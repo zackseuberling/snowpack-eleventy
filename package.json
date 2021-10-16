@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Zack Seuberling <seuberling@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "yarn snowpack build"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@snowpack/plugin-postcss": "^1.4.3",
