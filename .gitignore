@@ -1,0 +1,9 @@
+.env
+node_modules
+_site
+build/*
+!build/admin/
+!build/_redirects
+.DS_Store
+.netlify
+studio/dist
